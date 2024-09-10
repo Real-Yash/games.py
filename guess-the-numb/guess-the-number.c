@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 // this is game of guessing the number between 1 to 100
 int main()
